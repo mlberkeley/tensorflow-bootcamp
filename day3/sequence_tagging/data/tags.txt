@@ -1,0 +1,5 @@
+I-MISC
+I-LOC
+I-ORG
+O
+I-PER
